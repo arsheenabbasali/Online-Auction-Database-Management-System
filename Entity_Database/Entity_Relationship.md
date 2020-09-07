@@ -1,4 +1,4 @@
-## [Overview](master/README.md)
+## [Overview](../master/README.md)
 
 # Entity Relationship Diagram
 
