@@ -6,7 +6,7 @@
 
 ## [Major Data Questions](../Data_Questions.md)
 
-# Interface Forms
+# Interface
 
 #### Forms for inserting new records, deleting old records and navigating through records
 
