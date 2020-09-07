@@ -11,7 +11,7 @@
 #### Forms for inserting new records, deleting old records and navigating through records
 
 **Home Page**: 
-![png](../Home%20Page.png)
+![png](..Images/Home%20Page.png)
 
 **Registration Forms**: 
 ![png](../Registration%20forms.png)
