@@ -6,6 +6,8 @@
 
 ## [Major Data Questions](../Data_Questions.md)
 
+## [Interface](../Interface/Interface_forms.md)
+
 ### Database Infrastructure
 In this Project, the database infrastructure used is based on client-server model. SQL server is used as the database engine and Access is used as the interface design tool. Data are controlled and managed using SQL server database i.e. insertion, deletion and updating of data is done using SQL queries and interface is generated using Access forms and reports. All the data stored in SQL database can also be viewed using Access as reports and data can be manipulated (insertion, deletion) using Access forms.   
 
