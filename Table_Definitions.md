@@ -4,6 +4,8 @@
 
 # Tables Definition
 
+## [Major Data Questions](Data_Questions.md)
+
 ### SQL Scripts for Table Creation
 
  **Administrator Table**: 
