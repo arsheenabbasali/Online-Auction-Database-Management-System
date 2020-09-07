@@ -10,13 +10,20 @@
 
 #### Forms for inserting new records, deleting old records and navigating through records
 
- Home Page: 
- Registration Forms: 
-Note: Admin_ID and User_ID fields are hidden as they are auto-increment fields. 
- Login Forms: 
-  Product Listing: 
- Feedback Form: 
+**Home Page**: 
+
+**Registration Forms**: 
+
+Note: Admin_ID and User_ID fields are hidden as they are auto-increment fields.
+
+**Login Forms**: 
+
+**Product Listing**: 
+
+**Feedback Form**: 
+
 Note: Fdb_ID (feedback ID) is an auto-increment variable and it is hidden in the form. 
- Bid Form: 
+
+**Bid Form**: 
  
  
