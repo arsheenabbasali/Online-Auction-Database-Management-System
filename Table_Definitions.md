@@ -1,4 +1,4 @@
-## [Overview](../README.md)
+## [Overview](README.md)
 
 ## [Entity Relationship Diagram](Entity_Database/Entity_Relationship.md)
 
