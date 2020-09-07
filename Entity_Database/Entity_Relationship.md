@@ -13,4 +13,4 @@ In this Project, the database infrastructure used is based on client-server mode
 9. **Payment_Method**: This entity captures the information about chosen payment method for any sold product by a buyer or accepted payment methods by seller for any product.  
 
 # Entity Relationship Diagram
-![png](Entity_Database/Entity%20Diagram.jpg)
+![JPEG](Entity_Database/Entity%20Diagram.JPEG)
