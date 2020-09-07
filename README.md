@@ -2,6 +2,8 @@
 
 ## [Entity Relationship Diagram](Entity_Database/Entity_Relationship.md)
 
+## [Tables Definition](Table_Definitions.md)
+
 ### Introduction
 A3 Auction” is an online web portal aimed at taking the auction to the finger-tips of the aspiring bidders and sellers there by building an “On-line auction management system” which can wipe out the inherent problems of “Conventional Auction House”.
 The suggested web portal will have a home page where all users can sign up and there will be display of all the latest products in the chronological order with all the auction details such as Product Name, Product Description, Starting Bid Amount, Incremental Value etc. Any user can navigate through all the products by selecting the category of the product from the drop-down menu. Only authenticated users can take part in selling or in bidding and only those who have registered and authenticated as sellers can place their products for bidding. The database also keeps the record of all the bids of an auction and the bid history related to a bidder account. There is also an administrator of the whole system who can track any auction, authenticate the users and products and can contact the seller and bidder, instructing them about the transaction details, the shipping mode etc.
