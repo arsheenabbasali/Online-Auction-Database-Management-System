@@ -1,6 +1,6 @@
 # Reports
 
-**Report to view the auction details of a product.**
+**1. Report to view the auction details of a product.**
 
 *Type the Product name, you want auction details of.*  
 
@@ -11,12 +11,12 @@
 ![Image_2](Images/Image_2.png)  
 
 
-**Report to view all the auctions with their seller name.**  
+**2. Report to view all the auctions with their seller name.**  
 
 ![Image_3](Images/Image_3.png)  
 
 
-**Report to view all the details of the products bought by a buyer.**  
+**3. Report to view all the details of the products bought by a buyer.**  
 
 *Type the name of the user you want details of.*  
 
@@ -27,7 +27,7 @@
 ![Image_5](Images/Image_5.png)  
 
 
-**Report of all the information about the buyer of a product.**  
+**4. Report of all the information about the buyer of a product.**  
 
 *Type the name of the product you want details of.*  
 
