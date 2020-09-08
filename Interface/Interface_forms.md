@@ -8,7 +8,7 @@
 
 # Interface
 
-## [Reports](Reports/Reports.md)
+## [Reports](../Reports/Reports.md)
 
 #### Forms for inserting new records, deleting old records and navigating through records
 
